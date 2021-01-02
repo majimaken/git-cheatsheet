@@ -98,6 +98,10 @@ Before we continue working on an existing branch, we need to pull the current ve
 |git merge main|Pulling everything from master and merging it with branch "new"|
 
 
+<<<<<<< HEAD
+=======
+![Simplified workflow of Git and Github](https://github.com/majimaken/unix-cheatsheet/blob/main/Figures/git-flow.png)
+>>>>>>> a8597214b6c1944d7aa60f7556bfbcd1c0d41a19
 
 
 
