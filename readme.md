@@ -9,3 +9,7 @@ The code itself are the commands the user enters into the CLI.
 
 The following cheat sheet should help get an overview of the most important commands.
 
+## Basics 
+
+
+
