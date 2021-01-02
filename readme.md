@@ -14,7 +14,7 @@ The following cheat sheet should help get an overview of the most important comm
 Git is an open-source version control tool created by developers working on the Linux operating system in 2005. On the other hand, GitHub is a 2008-based company that provide the interface to make the usage of Git easier.
 Using Git and GitHub simplifies shared projects with different users. The following figure shows a collaboration project with three users working on the same project with the help of GitHub. 
 
-![Simplified workflow of Git and Github](http://github.com/majimaken/unix-cheatsheet/Figures/git-flow.png)
+![Simplified workflow of Git and Github](https://github.com/majimaken/unix-cheatsheet/blob/main/Figures/git-flow.png)
 
 ## Commands
 ### CLI Basics 
@@ -47,7 +47,7 @@ Cloning an existing repository from GitHub can be practical and should be done e
 |---|---|
 |git clone https://github.com/majimaken/unix-cheatsheet.git|Cloning remote repository to current (local) directory|
 
-![Simplified workflow of Git and Github](http://github.com/majimaken/unix-cheatsheet/Figures/clone.jpg)
+![Clone](https://github.com/majimaken/unix-cheatsheet/blob/main/Figures/clone.jpg)
 
 #### Initializing a New Repository
 
@@ -98,10 +98,6 @@ Before we continue working on an existing branch, we need to pull the current ve
 |git merge main|Pulling everything from master and merging it with branch "new"|
 
 
-<<<<<<< HEAD
-=======
-![Simplified workflow of Git and Github](https://github.com/majimaken/unix-cheatsheet/blob/main/Figures/git-flow.png)
->>>>>>> a8597214b6c1944d7aa60f7556bfbcd1c0d41a19
 
 
 
