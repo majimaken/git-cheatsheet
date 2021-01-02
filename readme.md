@@ -25,7 +25,7 @@ First, we want to introduce you to the basic commands that are required for the 
 
 Git is an open-source version control tool created by developers working on the Linux operating system in 2005. On the other handGitHub is a 2008-based company that provide the interface to make the usage of Git easier. 
 
-![Simplified workflow of Git and Github](http://github.com/majimaken/unix-cheatsheet/Figures/git-flow.png)
+![Simplified workflow of Git and Github](https://github.com/majimaken/unix-cheatsheet/blob/main/Figures/git-flow.png)
 
 
 
