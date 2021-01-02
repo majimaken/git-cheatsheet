@@ -1,11 +1,4 @@
-# Unix Command Cheat Sheet
-
-## Unix Operating System (OS)
-
-UNIX is an operating system created by AT&T's Bell Laboratories and allows multi-tasking and multi-user. Operating systems like Mac OS, Linux, Android OS, iOS and Chrome OS are examples that are based on Unix. 
-Unix consists of three parts: the kernel, the shell and the code. The kernel is responsible for the communication with the computer hardware and therefore manages CPU and RAM. 
-The shell is an command line interpreter (CLI) and is placed between the user and the kernel. It interprets the inputs the user does and forwards the commands to the kernel for execution. 
-The code itself are the commands the user enters into the CLI. 
+# Git Commands Cheat Sheet
 
 The following cheat sheet should help get an overview of the most important commands.
 
@@ -97,7 +90,11 @@ Before we continue working on an existing branch, we need to pull the current ve
 |git checkout new|Changing to branch "new"|
 |git merge main|Pulling everything from master and merging it with branch "new"|
 
+## Unix Operating System (OS)
 
+Unix is an operating system created by AT&T's Bell Laboratories and allows multi-tasking and multi-user. Operating systems like Mac OS, Linux, Android OS, iOS and Chrome OS are examples that are based on Unix. Unix consists of three parts: the kernel, the shell and the code. The kernel is responsible for the communication with the computer hardware and therefore manages CPU and RAM. The shell is an command line interpreter (CLI) and is placed between the user and the kernel. It interprets the inputs the user does and forwards the commands to the kernel for execution. The code itself are the commands the user enters into the CLI. 
+
+The command shell of Unix differs slightly from the above described approaches for Windows DOS.
 
 
 
