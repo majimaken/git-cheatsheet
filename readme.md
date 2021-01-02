@@ -11,5 +11,7 @@ The following cheat sheet should help get an overview of the most important comm
 
 ## Basics 
 
+First, we want to introduce you to the basic commands. 
+
 
 
