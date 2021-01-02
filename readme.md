@@ -21,7 +21,7 @@ The following commands allow us to get to the desired project folder.
 |cd Documents/Projects/Time-Series|Change directory to folder Time-Series|
 |cd ..|Change directory to one level higher (back to Projects)|
 |mkdir test-project|Make new directory called test-project|
-|touch readme.me|Create file called readme.md|
+|touch readme.md|Create file called readme.md (only in Unix)|
 
 ### Getting Started  
 
