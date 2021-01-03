@@ -96,5 +96,9 @@ Unix is an operating system created by AT&T's Bell Laboratories and allows multi
 
 The command shell of Unix differs slightly from the above described approaches for Windows DOS.
 
+## Integrated Git Version Control
+
+Most of the commonly used Integrated Development Environments (IDE) already have some sort of Git version control integrated. 
+
 
 
