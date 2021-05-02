@@ -62,6 +62,11 @@ If we want to continue working on an existing repository, we should pull all cha
 
 The changes made in the files need to committed to the main branch. After the last command, the login screen of GitHub should appear. 
 
+### Commit and push changes (also copying existing local repo to remote)
+
+The following commands should be conducted after making some changes. 
+Same procedure for committing and pushing a local repository to an empty (and newly created) remote repository.
+
 |Command|Description|
 |---|---|
 |git add .|Add all files to future commit|
